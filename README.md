@@ -27,6 +27,7 @@ The objective is to identify meaningful groups (clusters) of countries based on 
 ## Microsoft Power BI Dashboard
 
 Below is a snapshot of the interactive dashboard built in **Power BI** to visualize the clustering results:
+
 ![image](https://github.com/user-attachments/assets/44b4feb2-a7c0-44df-bdfd-6a2cb66ecfda)
 
 ---
@@ -56,7 +57,5 @@ The Power BI dashboard offers a comprehensive view of the health expenditure (% 
 - 🔁 **GDP Change vs Volatility Scatterplot**:
   - Cluster 0 and 2 countries exhibit higher **volatility** in expenditure trends.
   - Cluster 1 countries show **low change and low volatility**, indicating conservative health budgets.
-
-These insights help policymakers and analysts understand global health investment patterns and group similar economies based on health spending behaviors.
 
 ---
